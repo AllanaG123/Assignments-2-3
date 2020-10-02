@@ -18,7 +18,7 @@ public class RandomCircles extends GraphicsProgram {
 	/** minimum radius */
 	private static final double MIN_RADIUS  = 5;
 	
-	/** Maximun radius */
+	/** Maximum radius */
 	private static final double MAX_RADIUS = 50;
 	
 	public void run() {
